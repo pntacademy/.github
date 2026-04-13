@@ -1,8 +1,7 @@
 <div align="center">
 
   <!-- LinkedIn-style slim banner -->
-  <img src="https://github.com/user-attachments/assets/979f2e55-bd79-4301-9bb4-f1fd63c014e9" width="100%" height="250px" alt="PNT Academy Banner">
-
+ <img src="https://github.com/user-attachments/assets/979f2e55-bd79-4301-9bb4-f1fd63c014e9" width="100%" height="250px" alt="PNT Academy Banner">
 
   <br><br>
 
@@ -15,9 +14,9 @@
 
   <h3>
     <a href="https://www.pntacademy.com">🌐 Official Website</a> &nbsp;|&nbsp;
-    <a href="https://www.pntacademy.com/trainings/colleges">🎓 College Trainings</a> &nbsp;|&nbsp;
-    <a href="https://www.pntacademy.com/trainings/schools">🏫 School Programs</a> &nbsp;|&nbsp;
-    <a href="https://www.pntacademy.com/programs/junior-innovators">🧒 Junior Innovators</a> &nbsp;|&nbsp;
+    <a href="https://www.pntacademy.com/programs/colleges">🎓 College Trainings</a> &nbsp;|&nbsp;
+    <a href="https://www.pntacademy.com/programs/schools">🏫 School Programs</a> &nbsp;|&nbsp;
+    <a href="https://www.pntacademy.com/programs/courses-for-kids">🧒 courses for kids</a> &nbsp;|&nbsp;
     <a href="mailto:pnt-trainings@pntacademy.com">📬 Contact Us</a>
   </h3>
 

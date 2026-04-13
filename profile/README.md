@@ -14,7 +14,7 @@
 
   <h3>
     <a href="https://www.pntacademy.com">🌐 Official Website</a> &nbsp;|&nbsp;
-    <a href="https://www.pntacademy.com/trainings/colleges">🎓 College Trainings</a> &nbsp;|&nbsp;
+    <a href="https://www.pntacademy.com/program/colleges">🎓 College Trainings</a> &nbsp;|&nbsp;
     <a href="https://www.pntacademy.com/trainings/schools">🏫 School Programs</a> &nbsp;|&nbsp;
     <a href="https://www.pntacademy.com/programs/junior-innovators">🧒 Junior Innovators</a> &nbsp;|&nbsp;
     <a href="mailto:pnt-trainings@pntacademy.com">📬 Contact Us</a>
